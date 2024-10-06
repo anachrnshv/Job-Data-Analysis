@@ -8,7 +8,7 @@ Die Methodik umfasst die automatisierte Erhebung und anschließende Bereinigung 
 
 Im Folgenden wird der Prozess des automatisierten Scraping von Jobangeboten dargestellt:
 
-![Scraping-Prozess-Diagramm](images/webscrape.png)
+![Scraping-Prozess-Diagramm](images/webscrape.PNG)
 
 *Abbildung 1: Diagramm des Scraping-Prozesses*
 ## Projektziele
